@@ -2,3 +2,5 @@ there is nothing
 I add something in this file
 this the third line
 Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git tracks changes.
